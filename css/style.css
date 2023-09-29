@@ -1,0 +1,323 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	font-family: 'Playfair Display', serif;
+	font-size: 14px;
+	line-height: 1.7em;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Playfair Display', serif;
+}
+a, a:hover{
+	text-decoration: none;
+}
+
+
+.header{
+	width: 100%;
+	padding: 10px 0px;
+	background: url("../images/Group 1.png") center top no-repeat;
+	background-size: cover;
+	height: 180vh;
+
+}
+.feature{
+	width: 100%;
+	padding: 80px 0px;
+	background: #cdcdcd;
+	text-align: center;
+}
+
+.feature img{
+	width: 50%;
+	margin: 10px 0px 0px 170px;
+}
+
+.feature h5{
+	margin: -25px 0px 0px 0px;
+	font-size: 25px;
+}
+
+.feature h4{
+	margin: 8px 0px 0px 0px;
+	text-transform: uppercase;
+}
+
+.feature p{
+	margin: 20px 0px 0px 0px;
+	font-size: 15px;
+}
+
+.feature .btn-primary{
+	width: 10%;
+	padding: 15px 10px;
+	font-size: 16px;
+	font-weight: 500;
+	letter-spacing: 1px;
+	background: #dfa32f;
+	border: 1px solid #dfa32f;
+	color: #000;
+	margin: -20px 0px 0px 0px;
+}
+
+.history{
+	width: 100%;
+	padding: 80px 0px;
+	background: url("../images/hi.png") center top no-repeat;
+	background-size: cover;
+	height: 150vh;
+	text-align: center;
+}
+
+.history h5{
+	color: #dfa32f;
+	font-size: 30px;
+	margin: -10px 0px 0px 0px;
+
+}
+
+.history p{
+	color: #fff;
+	font-size: 15px;
+	margin: 20px 0px 0px 0px;
+
+}
+
+.food{
+	width: 100%;
+	padding: 80px 0px;
+	background: url("../images/ds.png") center top no-repeat;
+	background-size: cover;
+}
+
+
+.food img{
+	width: 40%;
+	margin: -45px 0px 0px 20px;
+}
+
+.food h3{
+	text-transform: uppercase;
+	margin: 30px 0px 0px 0px;
+}
+
+
+.food p{
+	margin: 10px 0px 0px 0px;
+	color: #141414;
+}
+
+.food .btn-primary{
+	padding: 15px 10px;
+	font-size: 17px;
+	font-weight: 500;
+	letter-spacing: 1px;
+	background: #dfa32f;
+	border: 1px solid #dfa32f;
+	color: #000;
+	margin: 30px 0px 0px 0px;
+}
+
+.black{
+	width: 100%;
+	padding: 80px 0px;
+	background: url("../images/black.png") center top no-repeat;
+	background-size: cover;
+	height: 100vh;
+
+}
+
+
+
+.black h3{
+	text-transform: uppercase;
+	margin: 30px 0px 0px 0px;
+	color: #fff;
+	margin: 70px 0px 0px 115px;
+
+}
+
+
+.black p{
+	margin: 10px 0px 0px 0px;
+	color: #fff;
+	margin: 10px 0px 0px 115px;
+
+}
+
+.black .btn-primary{
+	padding: 15px 10px;
+	font-size: 17px;
+	font-weight: 500;
+	letter-spacing: 1px;
+	background: #dfa32f;
+	border: 1px solid #dfa32f;
+	color: #000;
+	margin: 40px 0px 0px 115px;
+}
+
+.blue{
+	width: 100%;
+	padding: 80px 0px;
+	background: #cdcdcd;
+}
+
+.blue img{
+	margin: 15px;
+}
+
+.berry{
+	width: 100%;
+	padding: 80px 0px;
+	background: url("../images/bbg.png") center top no-repeat;
+	background-size: cover;
+	
+}
+
+.berry img{
+	width: 20%;
+}
+
+.berry .img-me{
+	width: 10%;
+	margin: 10px 0px 0px 60px;
+}
+
+
+.berry p{
+	margin: 15px 0px 0px 0px;
+	color: #fff;
+	
+}
+
+.berry .img-us{
+	margin: 60px 0px 0px 0px;
+}
+
+.berry .btn-primary{
+	padding: 10px 16px;
+	font-size: 17px;
+	font-weight: 500;
+	letter-spacing: 1px;
+	background: #dfa32f;
+	border: 1px solid #dfa32f;
+	color: #000;
+	margin: 30px 0px 0px 0px;
+	
+}
+
+
+.lunch{
+	width: 100%;
+	padding: 80px 0px;
+	background: #cdcdcd;
+	text-align: center;
+}
+
+.lunch img{
+	width: 30%;
+
+}
+
+.lunch h3{
+	text-transform: uppercase;
+	margin: 40px 0px 0px 0px;
+}
+
+
+.lunch p{
+	
+	margin: 10px 0px 0px 0px;
+	font-size: 14px;
+}
+
+
+.lunch .img-me{
+	width: 20%;
+}
+
+
+.lunch .btn-primary{
+	padding: 10px 16px;
+	font-size: 17px;
+	font-weight: 500;
+	letter-spacing: 1px;
+	background: #dfa32f;
+	border: 1px solid #dfa32f;
+	color: #000;
+	margin: 50px 0px 0px 0px;
+	
+}
+
+.footer{
+	width: 100%;
+	padding: 80px 0px;
+	background: url("../images/fbg.png") center top no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+
+.footer h3{
+	color: #ae7f27;
+	margin: 70px 0px 0px 0px;
+}
+
+
+.footer p{
+	font-size: 14px;
+	color: #fff;
+	margin: 15px 0px 0px 0px;
+	
+}
+
+.footer img{
+	margin: 30px 0px 0px 0px;
+}
+
+.footer h5{
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 25px;
+	margin: 110px 0px 0px 60px;
+}
+
+.footer h6{
+	color: #fff;
+	margin: 30px 0px 0px 60px;
+
+}
+
+.footer .img-me{
+	margin: 5px 0px 0px 55px;
+}
+
+.footer .btn-primary{
+	padding: 10px 16px;
+	font-size: 17px;
+	font-weight: 500;
+	letter-spacing: 1px;
+	background: #dfa32f;
+	border: 1px solid #dfa32f;
+	color: #000;
+	margin: 50px 0px 0px 50px;
+	
+}
+
+.footer .img-us{
+	width: -40%;
+	margin: 140px 0px 0px 160px;
+}
+
+
+
+
+
+
+
+
+
+
+
